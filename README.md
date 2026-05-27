@@ -1,3 +1,3 @@
-# perovskite-degradation-ml (In Progress)
+# perovskite-degradation-ml
 
 Explainable Machine Learning framework for decoupling outdoor degradation in Perovskite Solar Cells.
