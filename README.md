@@ -2,5 +2,4 @@
 
 Explainable Machine Learning framework for decoupling outdoor degradation in Perovskite Solar Cells.
 
-<img width="1343" height="1111" alt="IMG_0520" src="https://github.com/user-attachments/assets/2950a588-5152-4124-91b2-dd2048f86272" />
-
+<img width="2022" height="1512" alt="IMG_0521" src="https://github.com/user-attachments/assets/3630b20a-7041-46ae-b201-663423a29226" />
