@@ -27,7 +27,7 @@ Two complementary machine learning approaches are used:
 
 ## Machine Learning Workflow
 
-![ML Workflow](https://github.com/user-attachments/assets/3630b20a-7041-46ae-b201-663423a29226)
+![ML Workflow](https://github.com/user-attachments/assets/29bca6c2-dc90-4050-9d08-a8a231279496)
 
 Sequential pipeline of data curation and predictive modeling for PSC degradation characterization.
 
