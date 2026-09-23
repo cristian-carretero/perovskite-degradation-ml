@@ -147,4 +147,4 @@ Data Scientist & ML Researcher | Physicist & Materials Engineer
 
 ## Appendix: Artificial Intelligence Usage Declaration
 
-AI tools (Google Gemini Pro) were used strictly as an iterative linguistic and coding support tool. All scientific content, data interpretation, system architecture, and scientific contributions are the sole work of the author. Full details are available in the thesis document (Appendix, page 45).
+AI tools (Google Gemini Pro) were used strictly as an iterative linguistic and coding support tool. All scientific content, data interpretation, system architecture, and scientific contributions are the sole work of the author.  
